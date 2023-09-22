@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+André Jorge Nascimento Britto
+
+Trabalho como gerente de produção e operações e atualmente estou aprendendo data science. 
 <!--
 **andrejnbritto01/andrejnbritto01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
